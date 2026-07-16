@@ -1,3 +1,3 @@
 # bot
 
-![alt text]({https://pin.it/6n4yaOX4s})
+![alt text](https://github.com/k-yevoznyi/bot/main/blob/screens/photo_2026-07-16_03-38-38.jpg?raw=true)
